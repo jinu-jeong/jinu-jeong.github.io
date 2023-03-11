@@ -36,5 +36,5 @@ Brief introduction about yourself.
 
 ## Contact Me
 
-- Email: jinuj2 (at) illinois (dot) edu
+- Email: jinuj2 (at) illinois (dot) edu, jinu.j0912us (at) gmail (dot) com
 - LinkedIn: [https://www.linkedin.com/in/jinu-jeong/](https://www.linkedin.com/in/jinu-jeong/)
