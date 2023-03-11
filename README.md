@@ -11,7 +11,10 @@
 - Skill 1
 - Skill 2
 - Skill 3
+- Programming languages
 
+![Python3](https://img.shields.io/badge/<>-<python3>-<red>)
+- ML softwares
 ## About Me
 
 Brief introduction about yourself.
