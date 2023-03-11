@@ -1,4 +1,19 @@
-# My GitHub Portfolio
+## About me
+I am a PhD student in Mechanical engineering with a research focus on data-driven molecular dynamics simulation and coarse-grained simulation. Some of my research interests include:
+
+- Neural network force field
+- Coarse-grained force field
+- Reduced order modeling
+- Stochastic modeling
+
+## Education
+
+- University of Illinois at Urbana-Champaign
+  - PhD in Mechanical Science and Engineering, 2024 Summer (Expected)
+- Seoul National University
+  - Master's Degree in Mechanical Engineering, 2019
+- University of Ulsan
+  - Bachelor's Degree in Mechanical Engineering, 2017
 
 ## Projects
 
@@ -8,17 +23,16 @@
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
-- Programming languages ![Python3](https://img.shields.io/badge/python3-brightgreen) ![FORTRAN90](https://img.shields.io/badge/FORTRAN-red) ![MATLAB](https://img.shields.io/badge/MATLAB-orange)  ![C++](https://img.shields.io/badge/C++-lightgrey)
-- ML softwares
+- Machine learning
+- Computational mechanics
+- Programming languages: ![Python3](https://img.shields.io/badge/python3-brightgreen) ![FORTRAN90](https://img.shields.io/badge/FORTRAN-red) ![MATLAB](https://img.shields.io/badge/MATLAB-orange) ![C++](https://img.shields.io/badge/C++-lightgrey)
+- ML softwares: ![PyTorch](https://img.shields.io/badge/PyTorch-green)
+
 ## About Me
 
 Brief introduction about yourself.
 
 ## Contact Me
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-handle)
+- Email: jinuj2 (at) illinois (dot) edu
+- LinkedIn: [https://www.linkedin.com/in/jinu-jeong/](https://www.linkedin.com/in/jinu-jeong/)
