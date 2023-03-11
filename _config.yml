@@ -1,0 +1,27 @@
+# site settings
+remote_theme : tabreturn/tabreturn.github.io
+
+title: tabreturn // blog
+email: github.tabreturn.io@tabreturn.com
+description: "A collection of posts covering a blend of technology, design, code, and creativity."
+logo: 'img/logo.svg'
+url: "https://github.com/jinu-jeong/jinu-jeong.github.io"
+baseurl: "" # subpath, e.g. /blog
+github_username: tabreturn
+portfolio_website: http://portfolio.tabreturn.com
+
+# build settings
+markdown: kramdown
+
+# matomo settings
+# remove/comment lines to disable
+matomo_trackerurl: "*.tabreturn.github.io"
+matomo_sourceurl: "https://matomo.tabreturn.com/"
+matomo_siteid: 2
+
+# isso settings
+# remove/comment lines to disable
+isso_dataurl: "https://isso.tabreturn.com/"
+isso_sourcecurl: "https://isso.tabreturn.com/js/embed.min.js"
+isso_vote: "false"
+
