@@ -11,9 +11,7 @@
 - Skill 1
 - Skill 2
 - Skill 3
-- Programming languages
-
-![Python3](https://img.shields.io/badge/<>-<python3>-<red>)
+- Programming languages ![Python3](https://img.shields.io/badge/python3-brightgreen) ![FORTRAN90](https://img.shields.io/badge/FORTRAN-red) ![MATLAB](https://img.shields.io/badge/MATLAB-orange)  ![C++](https://img.shields.io/badge/C++-lightgrey)
 - ML softwares
 ## About Me
 
