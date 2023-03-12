@@ -2,8 +2,8 @@
 
 I am a PhD student in Mechanical engineering with a research focus on data-driven molecular dynamics simulation and reduced order modeling. Some of my research interests include:
 
-- Data-driven physics modeling and numerical simulation
-- Reduced order modeling amd simulation acceleration
+- Data-driven physics modeling
+- Corae-grained modeling, FEM model reduction, and simulation acceleration
 
 ## Education
 
