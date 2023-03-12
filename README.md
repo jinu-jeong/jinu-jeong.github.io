@@ -32,7 +32,9 @@ I am a PhD student in Mechanical engineering with a research focus on data-drive
 - Machine learning: Neural ODE, Graph Neural networks
 - Computational mechanics: FEM, CFD, MD simulation
 - Programming languages: ![Python3](https://img.shields.io/badge/python3-brightgreen) ![FORTRAN90](https://img.shields.io/badge/FORTRAN-red) ![MATLAB](https://img.shields.io/badge/MATLAB-orange) ![C++](https://img.shields.io/badge/C++-lightgrey)
-- ML softwares: ![PyTorch](https://img.shields.io/badge/PyTorch-green)
+- Python Libraries: ![PyTorch](https://img.shields.io/badge/PyTorch-green) ![TensorFlow](https://img.shields.io/badge/TensorFlow-green) ![Numpy](https://img.shields.io/badge/Numpy-green) ![Pandas](https://img.shields.io/badge/Pandas-green) ![JAX](https://img.shields.io/badge/JAX-green)
+- Computational mechanics softwares: ![ADINA](https://img.shields.io/badge/ADINA-green) ![STARCCM+](https://img.shields.io/badge/StarCCM+-green)
+- Miscellaneous: ![SLURM](https://img.shields.io/badge/SLURM-green) ![Conda](https://img.shields.io/badge/Conda-green) ![Docker](https://img.shields.io/badge/Docker-green) ![Singularity](https://img.shields.io/badge/Singularity-green) ![Git](https://img.shields.io/badge/Git-green)
 
 ## Contact Me
 
