@@ -22,12 +22,12 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 ## Projects
 
 
-- [Coarse-grained molecular dynamics simulation](https://doi.org/10.1021/acs.jpca.1c10865): A neural network that predicts the equivalent dimensionless Lennard0Jones potential prameters for a multi-atom system is developed. A coarse-grained simulation using the parameters reproduces the microscopic structure (RDF) of various simple fluids in different thermodynamic state.
-- [FEM acceleration, Solid-fluid interaction](https://dcollection.snu.ac.kr/common/orgView/000000156565): An accelerated finite element method (FEM) for Brownian dynamics simulation of proteins (fluid-solid interaction) is developed. Using static condensation and component mode synthesis approaches, simulation is highly accelerated, keeping the accuracy loss minimized.
-- [Nano mechanics, Numerical analysis](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE06666531): A molecular dynamics simulation is conducted and developed a model, by using composite beam theory, explaining the relation between surface elastic properties and the corresponding natural frequency of FCC nano-beams.
-- [Image detection] An image detection model is developed to detect semiconductor defects. Single shot multi-box detector (SSD) is trained to detect a defect in a semiconductor wafer by comparing blueprint and microscopy image. This outperformed the SOTA. (Due to a non-disclosure agreement with the company involved in this project, detailed information cannot be disclosed.)
-- [End to end coarse-graining framework] : ongoing
-- [Data driven modeling of quantum force] : ongoing
+- [Coarse-grained molecular dynamics simulation](https://doi.org/10.1021/acs.jpca.1c10865): Our team developed a neural network that predicts the equivalent dimensionless Lennard-Jones potential parameters for a multi-atom system. This was used to perform a coarse-grained simulation, which accurately reproduced the microscopic structure (RDF) of various simple fluids at different thermodynamic states.
+- [FEM acceleration, Solid-fluid interaction](https://dcollection.snu.ac.kr/common/orgView/000000156565): I developed an accelerated finite element method (FEM) for Brownian dynamics simulation of solvated proteins. By implementing static condensation and component mode synthesis approaches, our simulation achieved high acceleration while minimizing accuracy loss.
+- [Nano mechanics, Numerical analysis](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE06666531): Using molecular dynamics simulation, we developed a model that utilizes composite beam theory to explain the relation between surface elastic properties and the corresponding natural frequency of FCC nano-beams.
+- Image detection An image detection model is developed to detect semiconductor defects. We employed the single shot multi-box detector (SSD) and trained it to identify semiconductor defects by comparing blueprint and microscopy images of wafers. Our method exceeded the performance of the current state-of-the-art defect detection approach. However, we cannot provide more detailed information about the project due to a non-disclosure agreement with the involved company.
+- End to end coarse-graining framework : ongoing
+- Data driven modeling of quantum force : ongoing
 
 ## Skills
 
