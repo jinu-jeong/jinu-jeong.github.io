@@ -8,11 +8,14 @@ I am a PhD student in Mechanical engineering with a research focus on data-drive
 ## Education
 
 - University of Illinois at Urbana-Champaign
-  - PhD in Mechanical Science and Engineering, 2024 Summer (Expected)
+
+  PhD in Mechanical Science and Engineering, 2024 Summer (Expected)
 - Seoul National University
-  - Master's Degree in Mechanical Engineering, 2019
+
+  Master's Degree in Mechanical Engineering, 2019
 - University of Ulsan
-  - Bachelor's Degree in Mechanical Engineering, 2017
+  
+  Bachelor's Degree in Mechanical Engineering, 2017
 
 ## Projects
 
