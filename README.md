@@ -1,4 +1,7 @@
-## About me {#about-me}
+    
+
+
+## About me
 
 I am a PhD student in Mechanical engineering with a research focus on data-driven molecular dynamics simulation and coarse-grained simulation. Some of my research interests include:
 
