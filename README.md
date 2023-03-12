@@ -29,7 +29,7 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 - End to end coarse-graining framework : ongoing
 - Data driven modeling of quantum force : ongoing
 
-## Skills
+## Knowledge & Skills
 
 - Machine learning: Neural ODE, Graph Neural networks
 - Computational mechanics: FEM, CFD, MD simulation
