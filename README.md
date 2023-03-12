@@ -2,10 +2,8 @@
 
 I am a PhD student in Mechanical engineering with a research focus on data-driven molecular dynamics simulation and coarse-grained simulation. Some of my research interests include:
 
-- Neural network force field
-- Coarse-grained force field
-- Reduced order modeling
-- Stochastic modeling
+- Data-driven physics modeling and numerical simulation
+- Reduced order modeling amd simulation acceleration
 
 ## Education
 
@@ -18,9 +16,11 @@ I am a PhD student in Mechanical engineering with a research focus on data-drive
 
 ## Projects
 
-- [Project 1](link/to/project1): Short description of project 1.
-- [Project 2](link/to/project2): Short description of project 2.
-- [Project 3](link/to/project3): Short description of project 3.
+- [Quantum-accurate data-driven force field modeling](link/to/project1): Ultrathin layer
+- [Coarse-grained molecular dynamics simulation](https://doi.org/10.1021/acs.jpca.1c10865): Extended DeepILST
+- [FEM acceleration, Solid-fluid interaction](https://dcollection.snu.ac.kr/public_resource/pdf/000000156565_20230312100416.pdf): Accelerated protein dynamics
+- [Nano mechanics, Numerical analysis](https://dcollection.snu.ac.kr/public_resource/pdf/000000156565_20230312100416.pdf): Metal beam
+- [Image detection] Semiconductor defect detection
 
 ## Skills
 
