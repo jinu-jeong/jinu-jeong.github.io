@@ -24,8 +24,8 @@ I am a PhD student in Mechanical engineering with a research focus on data-drive
 
 ## Skills
 
-- Machine learning
-- Computational mechanics
+- Machine learning: Neural ODE, Graph Nueral networks
+- Computational mechanics: FEM, CFD, MD simulation
 - Programming languages: ![Python3](https://img.shields.io/badge/python3-brightgreen) ![FORTRAN90](https://img.shields.io/badge/FORTRAN-red) ![MATLAB](https://img.shields.io/badge/MATLAB-orange) ![C++](https://img.shields.io/badge/C++-lightgrey)
 - ML softwares: ![PyTorch](https://img.shields.io/badge/PyTorch-green)
 
