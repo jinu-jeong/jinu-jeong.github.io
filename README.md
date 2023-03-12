@@ -1,9 +1,11 @@
 ## About me
 
-I am a PhD student in Mechanical engineering with a research focus on data-driven molecular dynamics simulation and reduced order modeling. Some of my research interests include:
+Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a PhD in Mechanical Engineering. My research focuses on data-driven molecular dynamics simulation and reduced order modeling. I'm particularly interested in the following areas:
 
+- Simulation acceleration
 - Data-driven physics modeling
-- Corae-grained modeling, FEM model reduction, and simulation acceleration
+- Corae-grained molecular dynamics simulation
+- FEM model reduction
 
 ## Education
 
