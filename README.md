@@ -16,11 +16,13 @@ I am a PhD student in Mechanical engineering with a research focus on data-drive
 
 ## Projects
 
-- [Quantum-accurate data-driven force field modeling](link/to/project1): Ultrathin layer
+
 - [Coarse-grained molecular dynamics simulation](https://doi.org/10.1021/acs.jpca.1c10865): Extended DeepILST
 - [FEM acceleration, Solid-fluid interaction](https://dcollection.snu.ac.kr/common/orgView/000000156565): Accelerated protein dynamics
 - [Nano mechanics, Numerical analysis](https://dcollection.snu.ac.kr/common/orgView/000000156565): Metal beam
 - [Image detection] Semiconductor defect detection
+- [End to end coarse-graining framework] : R-M
+- [Data driven modeling of quantum force] : H-D
 
 ## Skills
 
