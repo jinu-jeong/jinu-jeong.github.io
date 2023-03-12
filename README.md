@@ -1,4 +1,4 @@
-%%
+Thank you for visiting Jinu Jepng's webpage.
 
 
 ## About me
