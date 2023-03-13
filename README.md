@@ -1,5 +1,3 @@
-![](https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/E_DeepILST.gif?raw=true)
-
 ## About me
 
 Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a PhD in Mechanical Engineering. My research focuses on data-driven molecular dynamics simulation and reduced order modeling. I'm particularly interested in the following areas:
@@ -20,9 +18,9 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 ## Projects
 
 
-- [Coarse-grained molecular dynamics simulation](https://doi.org/10.1021/acs.jpca.1c10865)<br />![E_DeepILST](https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/E_DeepILST.gif)<br />Our team developed a neural network that predicts the equivalent dimensionless Lennard-Jones potential parameters for a multi-atom system. This was used to perform a coarse-grained simulation, which accurately reproduced the microscopic structure (RDF) of various simple fluids at different thermodynamic states.
+- [Coarse-grained molecular dynamics simulation](https://doi.org/10.1021/acs.jpca.1c10865)<br />![E_DeepILST](https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/E_DeepILST.gif?raw=true)<br />Our team developed a neural network that predicts the equivalent dimensionless Lennard-Jones potential parameters for a multi-atom system. This was used to perform a coarse-grained simulation, which accurately reproduced the microscopic structure (RDF) of various simple fluids at different thermodynamic states.
 
-- [FEM acceleration, Solid-fluid interaction](https://dcollection.snu.ac.kr/common/orgView/000000156565)<br />![FEM](https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/FEM.png)<br />I developed an accelerated finite element method (FEM) for Brownian dynamics simulation of solvated proteins. By implementing static condensation and component mode synthesis approaches, our simulation achieved high acceleration while minimizing accuracy loss.
+- [FEM acceleration, Solid-fluid interaction](https://dcollection.snu.ac.kr/common/orgView/000000156565)<br />![FEM](https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/FEM.png?raw=true)<br />I developed an accelerated finite element method (FEM) for Brownian dynamics simulation of solvated proteins. By implementing static condensation and component mode synthesis approaches, our simulation achieved high acceleration while minimizing accuracy loss.
 
 - Image detection<br />An image detection model is developed to detect semiconductor defects. We employed the single shot multi-box detector (SSD) and trained it to identify semiconductor defects by comparing blueprint and microscopy images of wafers. Our method exceeded the performance of the current state-of-the-art defect detection approach.
 
