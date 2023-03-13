@@ -24,7 +24,7 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 
 - [Nano mechanics, Numerical analysis](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE06666531)<br />Using molecular dynamics simulation, we developed a numerical model that utilizes composite beam theory to explain the relation between surface elastic properties and the corresponding natural frequency of FCC nano-beams.
 
-- Image detection<br />An image detection model is developed to detect semiconductor defects. We employed the single shot multi-box detector (SSD) and trained it to identify semiconductor defects by comparing blueprint and microscopy images of wafers. Our method exceeded the performance of the current state-of-the-art defect detection approach. However, we cannot provide more detailed information about the project due to a non-disclosure agreement with the involved company.
+- Image detection<br />An image detection model is developed to detect semiconductor defects. We employed the single shot multi-box detector (SSD) and trained it to identify semiconductor defects by comparing blueprint and microscopy images of wafers. Our method exceeded the performance of the current state-of-the-art defect detection approach.
 
 - End to end coarse-graining framework : ongoing
 
