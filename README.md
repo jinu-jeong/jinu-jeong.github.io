@@ -1,4 +1,4 @@
-## About me
+# About me
 
 Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a PhD in Mechanical Engineering. My research focuses on data-driven molecular dynamics simulation and reduced order modeling. I'm particularly interested in the following areas:
 
@@ -7,7 +7,7 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 - Corae-grained molecular dynamics simulation
 - FEM model reduction
 
-## Education
+# Education
 
 - University of Illinois at Urbana-Champaign<br />PhD in Mechanical Science and Engineering, 2024 Summer (Expected)
 
@@ -15,7 +15,7 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 
 - University of Ulsan<br />Bachelor's Degree in Mechanical Engineering, 2017
 
-## Projects
+# Projects
 
 
 - [Coarse-grained molecular dynamics simulation](https://doi.org/10.1021/acs.jpca.1c10865)<br />![E_DeepILST](https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/E_DeepILST.gif?raw=true)<br />Our team developed a neural network that predicts the equivalent dimensionless Lennard-Jones potential parameters for a multi-atom system. This was used to perform a coarse-grained simulation, which accurately reproduced the microscopic structure (RDF) of various simple fluids at different thermodynamic states.
@@ -37,7 +37,7 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 
 
 
-## Knowledge & Skills
+# Knowledge & Skills
 
 - Machine learning: Neural ODE, Graph Neural networks
 - Computational mechanics: FEM, CFD, MD simulation
@@ -47,7 +47,7 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 - Computational mechanics softwares: ![ADINA](https://img.shields.io/badge/ADINA-orange) ![ANSYS](https://img.shields.io/badge/ANSYS-orange) ![STARCCM+](https://img.shields.io/badge/StarCCM+-orange) ![LAMMPS](https://img.shields.io/badge/LAMMPS-orange) ![GROMACS](https://img.shields.io/badge/GROMACS-orange)
 - Miscellaneous: ![Meshlab](https://img.shields.io/badge/Meshlab-lightgrey) ![SLURM](https://img.shields.io/badge/SLURM-lightgrey) ![Conda](https://img.shields.io/badge/Conda-lightgrey) ![Docker](https://img.shields.io/badge/Docker-lightgrey) ![Singularity](https://img.shields.io/badge/Singularity-lightgrey) ![Git](https://img.shields.io/badge/Git-lightgrey)
 
-## Contact Me
+# Contact Me
 
 - Email: jinuj2 (at) illinois (dot) edu, jinu.j0912us (at) gmail (dot) com
 - LinkedIn: [https://www.linkedin.com/in/jinu-jeong/](https://www.linkedin.com/in/jinu-jeong/)
