@@ -1,3 +1,4 @@
+
 ## About me
 
 Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a PhD in Mechanical Engineering. My research focuses on data-driven molecular dynamics simulation and reduced order modeling. I'm particularly interested in the following areas:
@@ -29,6 +30,10 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 - End to end coarse-graining framework : ongoing
 
 - Data driven modeling of quantum force : ongoing
+
+
+
+
 
 
 ## Knowledge & Skills
