@@ -44,7 +44,7 @@ Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a Ph
 - Physics: Statistical thermodynamics, Brownian dynamics, Quantum mechanics
 - Programming languages: ![Python3](https://img.shields.io/badge/python3-brightgreen) ![FORTRAN90](https://img.shields.io/badge/FORTRAN-brightgreen) ![MATLAB](https://img.shields.io/badge/MATLAB-brightgreen) ![C++](https://img.shields.io/badge/C++-brightgreen)
 - Python Libraries: ![PyTorch](https://img.shields.io/badge/PyTorch-red) ![TensorFlow](https://img.shields.io/badge/TensorFlow-red) ![Numpy](https://img.shields.io/badge/Numpy-red) ![Pandas](https://img.shields.io/badge/Pandas-red) ![JAX](https://img.shields.io/badge/JAX-red)
-- Computational mechanics softwares: ![ADINA](https://img.shields.io/badge/ADINA-orange) ![STARCCM+](https://img.shields.io/badge/StarCCM+-orange) ![LAMMPS](https://img.shields.io/badge/LAMMPS-orange) ![GROMACS](https://img.shields.io/badge/GROMACS-orange)
+- Computational mechanics softwares: ![ADINA](https://img.shields.io/badge/ADINA-orange) ![ANSYS](https://img.shields.io/badge/ANSYS-orange) ![STARCCM+](https://img.shields.io/badge/StarCCM+-orange) ![LAMMPS](https://img.shields.io/badge/LAMMPS-orange) ![GROMACS](https://img.shields.io/badge/GROMACS-orange)
 - Miscellaneous: ![Meshlab](https://img.shields.io/badge/Meshlab-lightgrey) ![SLURM](https://img.shields.io/badge/SLURM-lightgrey) ![Conda](https://img.shields.io/badge/Conda-lightgrey) ![Docker](https://img.shields.io/badge/Docker-lightgrey) ![Singularity](https://img.shields.io/badge/Singularity-lightgrey) ![Git](https://img.shields.io/badge/Git-lightgrey)
 
 ## Contact Me
