@@ -1,4 +1,6 @@
 
+![E_DeepILST](https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/E_DeepILST.gif)
+
 ## About me
 
 Hello, world! My name is Jinu Jeong (정진우), and I'm currently pursuing a PhD in Mechanical Engineering. My research focuses on data-driven molecular dynamics simulation and reduced order modeling. I'm particularly interested in the following areas:
