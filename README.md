@@ -1,5 +1,4 @@
-
-![E_DeepILST](https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/E_DeepILST.gif)
+<img src="https://github.com/jinu-jeong/jinu-jeong.github.io/blob/main/E_DeepILST.gif" alt="" class="logo" />
 
 ## About me
 
